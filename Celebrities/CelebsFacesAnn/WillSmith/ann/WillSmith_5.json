@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 474,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591686421,
+            "classId": 13329295,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:08:50.194Z",
+            "updatedAt": "2024-09-16T09:08:50.194Z",
+            "tags": [],
+            "classTitle": "WillSmith",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        2
+                    ],
+                    [
+                        362,
+                        294
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

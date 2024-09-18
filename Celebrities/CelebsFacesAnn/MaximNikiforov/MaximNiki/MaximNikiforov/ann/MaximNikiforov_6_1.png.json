@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 1592196760,
+            "classId": 13334469,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-18T07:32:07.278Z",
+            "updatedAt": "2024-09-18T07:32:07.278Z",
+            "tags": [],
+            "classTitle": "BoundingBoxLabel",
+            "points": {
+                "exterior": [
+                    [
+                        193,
+                        64
+                    ],
+                    [
+                        418,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

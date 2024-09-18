@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 569,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591685405,
+            "classId": 13329289,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T08:57:10.499Z",
+            "updatedAt": "2024-09-16T08:57:10.499Z",
+            "tags": [],
+            "classTitle": "JenniferLawrence",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        20
+                    ],
+                    [
+                        370,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

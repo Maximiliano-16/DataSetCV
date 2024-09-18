@@ -1,0 +1,359 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 1592198425,
+            "classId": 13334908,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-18T07:51:23.485Z",
+            "updatedAt": "2024-09-18T07:51:59.999Z",
+            "tags": [],
+            "classTitle": "PolyLineClass",
+            "points": {
+                "exterior": [
+                    [
+                        255,
+                        192
+                    ],
+                    [
+                        246,
+                        194
+                    ],
+                    [
+                        255,
+                        212
+                    ],
+                    [
+                        264,
+                        229
+                    ],
+                    [
+                        271,
+                        243
+                    ],
+                    [
+                        284,
+                        272
+                    ],
+                    [
+                        311,
+                        295
+                    ],
+                    [
+                        350,
+                        304
+                    ],
+                    [
+                        399,
+                        301
+                    ],
+                    [
+                        424,
+                        285
+                    ],
+                    [
+                        440,
+                        264
+                    ],
+                    [
+                        449,
+                        240
+                    ],
+                    [
+                        466,
+                        200
+                    ],
+                    [
+                        449,
+                        204
+                    ],
+                    [
+                        447,
+                        185
+                    ],
+                    [
+                        435,
+                        158
+                    ],
+                    [
+                        412,
+                        162
+                    ],
+                    [
+                        384,
+                        164
+                    ],
+                    [
+                        353,
+                        165
+                    ],
+                    [
+                        324,
+                        158
+                    ],
+                    [
+                        314,
+                        167
+                    ],
+                    [
+                        283,
+                        161
+                    ],
+                    [
+                        263,
+                        163
+                    ],
+                    [
+                        255,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1592198463,
+            "classId": 13334908,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-18T07:52:01.538Z",
+            "updatedAt": "2024-09-18T07:52:12.445Z",
+            "tags": [],
+            "classTitle": "PolyLineClass",
+            "points": {
+                "exterior": [
+                    [
+                        288,
+                        202
+                    ],
+                    [
+                        309,
+                        216
+                    ],
+                    [
+                        337,
+                        220
+                    ],
+                    [
+                        350,
+                        212
+                    ],
+                    [
+                        337,
+                        199
+                    ],
+                    [
+                        311,
+                        201
+                    ],
+                    [
+                        296,
+                        201
+                    ],
+                    [
+                        289,
+                        208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1592198477,
+            "classId": 13334908,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-18T07:52:13.533Z",
+            "updatedAt": "2024-09-18T07:52:24.015Z",
+            "tags": [],
+            "classTitle": "PolyLineClass",
+            "points": {
+                "exterior": [
+                    [
+                        357,
+                        200
+                    ],
+                    [
+                        375,
+                        198
+                    ],
+                    [
+                        382,
+                        222
+                    ],
+                    [
+                        395,
+                        236
+                    ],
+                    [
+                        397,
+                        244
+                    ],
+                    [
+                        376,
+                        252
+                    ],
+                    [
+                        359,
+                        254
+                    ],
+                    [
+                        337,
+                        247
+                    ],
+                    [
+                        337,
+                        236
+                    ],
+                    [
+                        347,
+                        226
+                    ],
+                    [
+                        356,
+                        209
+                    ],
+                    [
+                        361,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1592198491,
+            "classId": 13334908,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-18T07:52:27.968Z",
+            "updatedAt": "2024-09-18T07:52:38.861Z",
+            "tags": [],
+            "classTitle": "PolyLineClass",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        261
+                    ],
+                    [
+                        325,
+                        272
+                    ],
+                    [
+                        341,
+                        276
+                    ],
+                    [
+                        362,
+                        279
+                    ],
+                    [
+                        382,
+                        277
+                    ],
+                    [
+                        401,
+                        273
+                    ],
+                    [
+                        412,
+                        266
+                    ],
+                    [
+                        393,
+                        260
+                    ],
+                    [
+                        371,
+                        262
+                    ],
+                    [
+                        348,
+                        262
+                    ],
+                    [
+                        331,
+                        264
+                    ],
+                    [
+                        321,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1592198505,
+            "classId": 13334908,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-18T07:52:41.353Z",
+            "updatedAt": "2024-09-18T07:52:51.565Z",
+            "tags": [],
+            "classTitle": "PolyLineClass",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        201
+                    ],
+                    [
+                        392,
+                        201
+                    ],
+                    [
+                        420,
+                        201
+                    ],
+                    [
+                        431,
+                        202
+                    ],
+                    [
+                        438,
+                        208
+                    ],
+                    [
+                        431,
+                        214
+                    ],
+                    [
+                        417,
+                        218
+                    ],
+                    [
+                        397,
+                        218
+                    ],
+                    [
+                        385,
+                        211
+                    ],
+                    [
+                        392,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

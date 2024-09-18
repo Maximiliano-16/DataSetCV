@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 474,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591687205,
+            "classId": 13329291,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:22:36.727Z",
+            "updatedAt": "2024-09-16T09:22:36.727Z",
+            "tags": [],
+            "classTitle": "HughJackman",
+            "points": {
+                "exterior": [
+                    [
+                        72,
+                        37
+                    ],
+                    [
+                        347,
+                        415
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 1592196977,
+            "classId": 13334472,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-18T07:35:18.900Z",
+            "updatedAt": "2024-09-18T07:35:18.900Z",
+            "tags": [],
+            "classTitle": "MaskLabel",
+            "bitmap": {
+                "data": "eNoBzAEz/olQTkcNChoKAAAADUlIRFIAAABBAAAAOAgGAAAAotqVTAAAAAFzUkdCAK7OHOkAAAGGSURBVGhD7ZrbEoMgDETL/380Ha04FCUsFzVm6WNFxz3dXEhxH6Uf771HXs0555B10pruB/S+QHo/Kj69rweGGgit4kfAuAXCKIGI61occRmEO4WfwamB0Q3habFiwgOTZhUEzYJzMBBHnEJ4o9geR/xBsCY+gCm5gQLCAkMCsUOw6oI4THIgVggMACQ3UEHIgaCDcAaCEkIKwrHkA6m1poYQHEEbDnEjRQ9hdUMgQp0bJoTICUyd42EkF3/BGhKHeQIjiAkhrg7MYUExXiuN6ieEGQ4/j2RH7kxVgh7CMncU/3xhcMOEsI3iqZ0QImFCkKoDwxYbcoL17TUMwSqIuDJC5xMslspqCNbckPZHkBMmhGgfaiUsmp1gxQ1nWwU4HKz0DfQQxJMqpfFTev2NuQE6s1QDYkLYaL0FRGlmIo7XEGdoB4EA6IagtWyi4vczCsgvXlqjyRG1AIY4QUv/0CJ+qBOeBNEj/hIIT8BQC2EkjBEiSzmteu9QeiB6PZdM7xCdvuMXwF3gCYW+FRYAAAAASUVORK5CYIJXG7Ot",
+                "origin": [
+                    210,
+                    175
+                ]
+            }
+        }
+    ]
+}

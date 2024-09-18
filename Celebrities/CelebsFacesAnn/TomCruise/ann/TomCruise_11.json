@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 474,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591686855,
+            "classId": 13329285,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:17:10.234Z",
+            "updatedAt": "2024-09-16T09:17:10.234Z",
+            "tags": [],
+            "classTitle": "TomCruise",
+            "points": {
+                "exterior": [
+                    [
+                        163,
+                        14
+                    ],
+                    [
+                        438,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

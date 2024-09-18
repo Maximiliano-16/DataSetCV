@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 587,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591686632,
+            "classId": 13329293,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:12:22.913Z",
+            "updatedAt": "2024-09-16T09:12:22.913Z",
+            "tags": [],
+            "classTitle": "NataliePortman",
+            "points": {
+                "exterior": [
+                    [
+                        96,
+                        26
+                    ],
+                    [
+                        401,
+                        303
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

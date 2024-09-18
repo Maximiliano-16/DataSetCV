@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 473,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591686223,
+            "classId": 13329284,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:06:23.078Z",
+            "updatedAt": "2024-09-16T09:06:23.078Z",
+            "tags": [],
+            "classTitle": "LeonardoDicaprio",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        11
+                    ],
+                    [
+                        323,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

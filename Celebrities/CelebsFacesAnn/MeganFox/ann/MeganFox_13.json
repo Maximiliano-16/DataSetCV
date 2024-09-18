@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 503,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591687774,
+            "classId": 13329297,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:24:45.096Z",
+            "updatedAt": "2024-09-16T09:24:45.096Z",
+            "tags": [],
+            "classTitle": "MeganFox",
+            "points": {
+                "exterior": [
+                    [
+                        113,
+                        13
+                    ],
+                    [
+                        331,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

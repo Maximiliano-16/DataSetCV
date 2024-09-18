@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 497,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591687038,
+            "classId": 13329294,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:19:52.553Z",
+            "updatedAt": "2024-09-16T09:19:52.553Z",
+            "tags": [],
+            "classTitle": "RobertDowney",
+            "points": {
+                "exterior": [
+                    [
+                        68,
+                        19
+                    ],
+                    [
+                        416,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

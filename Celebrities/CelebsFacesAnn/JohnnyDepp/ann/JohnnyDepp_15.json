@@ -1,0 +1,35 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 396,
+        "width": 474
+    },
+    "objects": [
+        {
+            "id": 1591687201,
+            "classId": 13329290,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Maximiliano",
+            "createdAt": "2024-09-16T09:22:32.135Z",
+            "updatedAt": "2024-09-16T09:22:32.135Z",
+            "tags": [],
+            "classTitle": "JohnnyDepp",
+            "points": {
+                "exterior": [
+                    [
+                        100,
+                        20
+                    ],
+                    [
+                        362,
+                        335
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
